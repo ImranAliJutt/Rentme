@@ -1,0 +1,27 @@
+body{
+	background-color:#00AFEF;
+}
+.container{
+	background-color:#ffff;
+	max-width: 600px;
+	margin: 0 auto;
+	padding: 50px;
+	margin-top: 8%;
+   
+}
+.logo{
+	text-align: center;
+}
+.renting{
+	color: #00AFEF;
+}
+.btn-primary{
+    background-color: #00AFEF;
+   border: none;
+    width: 80px;
+    height: 40px;
+
+}
+.btn-primary:hover {
+    background-color: black; /* Set the hover color to black */
+}

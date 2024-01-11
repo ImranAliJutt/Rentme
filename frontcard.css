@@ -1,0 +1,16 @@
+.card{
+	width: 18rem;
+	margin: 10px;
+  	font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+.card-title{
+	color: #00AFEF;
+}
+.card-title #price{
+ font-size:15px;
+}
+#address{
+	 font-size:12px;
+	 display: inline-block;
+     width: auto;
+}

@@ -1,0 +1,22 @@
+body{
+	font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  
+}
+
+.container{
+	padding-top:100px;
+}
+
+.card:hover {
+  box-shadow: 5px 6px 6px 2px #e9ecef;
+    transform: scale(0.9);
+}
+.card-img-top:hover {
+  opacity: 0.3;
+  filter: alpha(opacity=30);
+  transition: opacity 0.3s ease;
+}
+
+.row{
+	padding: 20px;
+}

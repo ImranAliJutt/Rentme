@@ -1,0 +1,11 @@
+.container-fluid {
+  background-color: #F6F0E2;
+  padding: 80px;
+  color: #fff;
+}
+
+.center-image {
+  display: block; 
+  margin: 0 auto; 
+}
+

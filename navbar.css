@@ -1,0 +1,30 @@
+  .navbar {
+    background-color: #ffffff;
+    box-shadow: 0 4px 16px rgba(53, 48, 48, 0.04);
+
+  }
+
+ .navbar-brand{
+	 margin-left: 50px;
+	 margin-top: -10px;
+}
+ .navbar-brand img {
+    width: 150px; 
+    height: auto; 
+  }
+  .nav-item{
+  	margin: 10px;
+  	font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  }
+  #login{
+  	background-color: #000;
+  	color: #ffff;
+  	width: 168px;
+  	text-align: center;
+    color: #ffffff;
+    margin-left: 16px;
+    margin-right: 20px;
+    transition: 0.2s;
+    font-weight: 600;
+  }
+  
